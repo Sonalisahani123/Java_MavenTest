@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50" started-at="2022-01-31T06:54:05Z" finished-at="2022-01-31T06:54:05Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50" started-at="2022-01-31T06:54:05Z" finished-at="2022-01-31T06:54:05Z">
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="borwserAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@c540f5a]" name="borwserAutomation" duration-ms="21" started-at="2022-01-31T12:24:05Z" finished-at="2022-01-31T12:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- borwserAutomation -->
+        <test-method status="PASS" signature="elementUI()[pri:0, instance:qaclickacademy.SeleniumTest@c540f5a]" name="elementUI" duration-ms="1" started-at="2022-01-31T12:24:05Z" finished-at="2022-01-31T12:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementUI -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
